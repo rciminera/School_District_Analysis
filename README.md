@@ -35,7 +35,7 @@ The results of the comparison between the original an new school district analys
 
 Nullifying the math and reading scores for 461 ninth graders resulted in small changes to the average pass
 
-(Screen_Shots/Screen%20Shot%202021-03-12%20at%208.36.23%20PM%20(1).png)
+![GitHubLogo](Screen_Shots/Screen%20Shot%202021-03-12%20at%208.36.23%20PM%20(1).png)
 
     The overall district summary was not affected by the changes despite replacing 461 ninth grade
 Distict Summary before the 
