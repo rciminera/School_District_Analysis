@@ -21,6 +21,9 @@ To determine the impact of the changes a new school district analysis was run wi
 Original School District Analyis File: [PyCitySchools.ipynb](insert here)
 New School District Analysis File: [PyCitySchools_Challenge.ipynb](insert here)
 
+
+![GitHubLogo]()
+
 A comparison was then done between the original school district analysis and the new school district analysis.
 
 
@@ -33,27 +36,83 @@ The results of the comparison between the original an new school district analys
 
 1. How is the district summary affected?
 
+
     Original District Summary
     
+    ![GitHubLogo]()
+    
+    New District Summary
 
-    New District Summart
-
+    ![GitHubLogo]()
 
 2. How is the school summary affected?
 
+    Original School Summary
+    
+      ![GitHubLogo]()
+
+    New School Summary
+
+     ![GitHubLogo]()
+
+
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+     Changing Thomas High School's ninth graders' math and reading scores did not result in a change in Thomas High School's overall rnak in the school district. 
+     They were ranked 3rd inthe district for overall scoring before and after the removal of the ninght grade scores.
+     
+     Original Top 5 Ranking:
+        
+      ![GitHubLogo]()
+
+     New Top 5 Ranking:
+
+      ![GitHubLogo]()
 
 4. How does replacing the ninth-grade scores affect the following:
 
 - Math and reading scores by grade
 
-- Scores by school spending
+  The change in 9th grade math and reading scores for Thomas Hig School only resulted in a change only to the 9th grade math and reading scores overall.
+  
+  Original Math and Reading Scores by Grade
+  
+  ![GitHubLogo]()
 
-- Scores by school size
+  New math and reading Scores by Grade
+  
+  ![GitHubLogo]()
 
-- Scores by school type
+- Scores by School Spending
 
+   Original scores by school spending
+     
+   ![GitHubLogo]()
 
+   New Sores by school spending
+
+    ![GitHubLogo]()
+
+- Scores by School Size
+
+   Original scores by school size
+
+   ![GitHubLogo]()
+
+   New scores by school size
+
+   ![GitHubLogo]()
+
+- Scores by School Type
+
+    Original scores by school type
+
+ ![GitHubLogo]()
+ 
+    New   
+ 
+  ![GitHubLogo]()
+ 
 ## Summary
 
 Four major changes occurred in the analysis after Thomas High School ninth grade reading and math scores were replaced with NaNs.
