@@ -18,10 +18,9 @@ insert picture here
 
 To determine the impact of the changes a new school district analysis was run with the null values and compared to the original analysis.
 
-Original School District Analyis File insert here)
-New School District Analysis File (insert here)
+Original School District Analyis File [insert here]
+New School District Analysis File [insert here]
 
-[election_results.txt](File Name Here)
 
 
 A comparison was then done between the original school district analysis and the new school district analysis.
