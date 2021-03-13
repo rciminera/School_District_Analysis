@@ -18,8 +18,8 @@ insert picture here
 
 To determine the impact of the changes a new school district analysis was run with the null values and compared to the original analysis.
 
-Original School District Analyis File insert here)
-New School District Analysis File (insert here)
+Original School District Analyis File: [PyCitySchools.ipynb](insert here)
+New School District Analysis File: [PyCitySchools_Challenge.ipynb](insert here)
 
 A comparison was then done between the original school district analysis and the new school district analysis.
 
@@ -34,6 +34,7 @@ The results of the comparison between the original an new school district analys
 1. How is the district summary affected?
 
     Original District Summary
+    
 
     New District Summart
 
