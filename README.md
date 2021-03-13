@@ -21,9 +21,6 @@ To determine the impact of the changes a new school district analysis was run wi
 Original School District Analyis File insert here)
 New School District Analysis File (insert here)
 
-[election_results.txt](File Name Here)
-
-
 A comparison was then done between the original school district analysis and the new school district analysis.
 
 
@@ -36,18 +33,10 @@ The results of the comparison between the original an new school district analys
 
 1. How is the district summary affected?
 
-Nullifying the math and reading scores for 461 ninth graders resulted in small changes to the average pass
+    Original District Summary
 
-<<<<<<< HEAD
-![GitHubLogo](insert 
+    New District Summart
 
-=======
-![GitHubLogo](Screen_Shots/Screen%20Shot%202021-03-12%20at%208.36.23%20PM%20(1).png)
->>>>>>> d4d058cae35a3ea6b073761ff4237520c09314b2
-
-    The overall district summary was not affected by the changes despite replacing 461 ninth grade
-Distict Summary before the 
-Distric Summary after
 
 2. How is the school summary affected?
 
