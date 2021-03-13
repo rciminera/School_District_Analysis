@@ -14,15 +14,13 @@ The analysis was conducted using Jupyter notebook with pandas and numpy python l
 To determine the impact that the suspected fraud at Thomas High School (THS) has had on the overall performance of the school, a new dataframe was created in which the math and reading scores for THS ninth grade were replaced with null values,  NaNs, while keeping the rest of the data intact. 
 
 Thomas High School 9th grade scores replaced with NaN
-insert picture here
+![GitHubLogo]()
 
 To determine the impact of the changes a new school district analysis was run with the null values and compared to the original analysis.
 
 Original School District Analyis File: [PyCitySchools.ipynb](insert here)
+
 New School District Analysis File: [PyCitySchools_Challenge.ipynb](insert here)
-
-
-![GitHubLogo]()
 
 A comparison was then done between the original school district analysis and the new school district analysis.
 
