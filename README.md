@@ -45,7 +45,7 @@ Following are the results of the comparison between the original analyis and the
 The new district summary changed slightly from the original with a 30bps drop in students % Overall Passing.  This came with with a 20bps drop in % Passing Math and a 10bps drop in % Passing Reading. 
 
 District Summary New vs Original    
-![GitHubLogo]()
+![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/DistrictCompare.png)
     
 
 
