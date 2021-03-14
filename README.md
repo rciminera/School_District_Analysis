@@ -31,7 +31,7 @@ Thomas High School 9th grade scores replaced with NaN
 
 To determine the impact of these changes a new school district analysis was run and compared to the original analysis to see what impact these changes has on the analysis.
 
-The school district analysis code can be found here:[PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb)
+The school district analysis code can be found here: [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb)
 
 
 
