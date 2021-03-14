@@ -71,47 +71,45 @@ Original Top 5 Ranking:
 
 ### 4. How does Replacing the Ninth-Grade Scores Affect the Following?:
 
-- Math and reading scores by grade
+- Math and Reading scores by Grade
 
   The change in 9th grade math and reading scores for Thomas High School only resulted in a change only to the 9th grade math   and reading scores overall.
   
-  New math and reading Scores by Grade:
-  
+  New Math Scores by Grade:
   ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewMathScoresbyGrade.png)
   
-  Original Math and Reading Scores by Grade
-  
+  New Reading Scores by Grade:
   ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewReadingScoresbyGrade.png)
   
 - Scores by School Spending
 
   There were no changes to scores by school spending. 
 
-   Original scores by school spending:     
-   ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalSpendingSummary.png)
+  Original scores by school spending:     
+  ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalSpendingSummary.png)
 
-   New Scores by school spending:
-   ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewSpendingSummary.png)
+  New Scores by school spending:
+  ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewSpendingSummary.png)
 
 - Scores by School Size
 
-   There were no changes to scores by school size.
+  There were no changes to scores by school size.
 
-   Original scores by school size:
-   ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalSizeSummary.png)
+  Original scores by school size:
+  ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalSizeSummary.png)
 
-   New Scores by School Size:
-   ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewSizeSummary.png)
+  New Scores by School Size:
+  ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewSizeSummary.png)
 
 - Scores by School Type
 
-    There were no changes to scores by school type
+  There were no changes to scores by school type
 
-    New Scores by School Type:
-    ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewTypeSummary.png)
+  New Scores by School Type:
+  ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewTypeSummary.png)
  
-    Original Scores by School Type:
-    ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalTypeAnalysis.png)
+  Original Scores by School Type:
+  ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalTypeAnalysis.png)
  
 ## Summary
 
@@ -121,41 +119,3 @@ Four changes of significance occurred in the analysis after Thomas High School n
 2. District % Passing Math down by (20bps)
 3. Thomas High School % Overall Passing down by (32bps)
 4. Thomas High School % Passing Reading down by (29bps)
-
-
-
-Top and Bottom
-
-
-
-
-
-Grades
-
-
-
-Size
-
-
-
-Spending
-
-
-
-Type
-
-
-
-
-Thomas Comparison
-
-
-
-
-
-
-
-
-
-
-
