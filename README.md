@@ -53,11 +53,17 @@ District Summary New vs Original
 
 In the new analysis, removing grades from 461 THS ninth graders naturally had no impact on other schools performance. The impact on THS % Overall Passing was 30 bps with % Passing Math showing virtually no drop and % Passing Reading down by 20bps. 
 
-Original School Summary    
-![GitHubLogo]()
-
 New School Summary
-![GitHubLogo]()
+![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewSchoolSummary.png)
+
+Original School Summary    
+![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalSchoolSummary.png)
+
+Thomas High School Comparisonn
+![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/ThomasHS.png)
+
+
+
 
 
 ### 3. Affect on Thomas High School’s Relative Performance 
@@ -128,6 +134,44 @@ Four changes of significance occurred in the analysis after Thomas High School n
 2. District % Passing Math down by (20bps)
 3. Thomas High School % Overall Passing down by (32bps)
 4. Thomas High School % Passing Reading down by (29bps)
+
+
+
+Top and Bottom
+
+https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewTopandBottomSchools.png
+
+https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalTopandBottomSchools.png
+
+
+
+Grades
+
+https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewMathScoresbyGrade.png
+
+https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewReadingScoresbyGrade.png
+
+Size
+
+https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalSizeSummary.png
+
+https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewSizeSummary.png
+
+Spending
+
+https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalSpendingSummary.png
+
+https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewSpendingSummary.png
+
+Type
+
+https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewTypeSummary.png
+https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalTypeAnalysis.png
+
+
+Thomas Comparison
+
+
 
 
 
