@@ -75,7 +75,7 @@ Original Top 5 Ranking:
 
   The change in 9th grade math and reading scores for Thomas High School only resulted in a change only to the 9th grade math   and reading scores overall.
   
-  New math and reading Scores by Grade
+  New math and reading Scores by Grade:
   
   ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewMathScoresbyGrade.png)
   
@@ -87,35 +87,31 @@ Original Top 5 Ranking:
 
   There were no changes to scores by school spending. 
 
-   Original scores by school spending
-     
-   ![GitHubLogo]()
+   Original scores by school spending:     
+   ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalSpendingSummary.png)
 
-   New Sores by school spending
-
-    ![GitHubLogo]()
+   New Scores by school spending:
+   ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewSpendingSummary.png)
 
 - Scores by School Size
 
    There were no changes to scores by school size.
 
-   Original scores by school size
+   Original scores by school size:
+   ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalSizeSummary.png)
 
-   ![GitHubLogo]()
-
-   New scores by school size
-
-   ![GitHubLogo]()
+   New Scores by School Size:
+   ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewSizeSummary.png)
 
 - Scores by School Type
 
     There were no changes to scores by school type
 
-  ![GitHubLogo]()
+    New Scores by School Type:
+    ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewTypeSummary.png)
  
-    New   
- 
-  ![GitHubLogo]()
+    Original Scores by School Type:
+    ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalTypeAnalysis.png)
  
 ## Summary
 
@@ -140,20 +136,15 @@ Grades
 
 Size
 
-https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalSizeSummary.png
 
-https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewSizeSummary.png
 
 Spending
 
-https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalSpendingSummary.png
 
-https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewSpendingSummary.png
 
 Type
 
-https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewTypeSummary.png
-https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalTypeAnalysis.png
+
 
 
 Thomas Comparison
