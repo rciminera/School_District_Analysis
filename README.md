@@ -26,16 +26,17 @@ In the second version of the analyis the data was again munged to determine the 
 
 This was accomplished by creating a new dataframe in which the math and reading scores for THS ninth grade were replaced with null values,  NaNs, while keeping the rest of the data intact. 
 
-Thomas High School 9th grade scores replaced with NaN
-![GitHubLogo](insert code snippet here)
-
 To determine the impact of these changes a new school district analysis was run and compared to the original analysis to see what impact these changes has on the analysis.
 
 The school district analysis code can be found here: [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb)
 
+Snippet of code used to replace Thomas High School 9th grade scores with NaN:
+
+![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/Replace%20scores%20with%20nan.png)
 
 
-## Results
+
+## Results of the School District Analysis
 
 Following are the results of the comparison between the original analyis and the new school district analysis after the THS ninth grade math and reading scores were removed.
 
