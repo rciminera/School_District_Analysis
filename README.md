@@ -35,7 +35,6 @@ Snippet of code used to replace Thomas High School 9th grade scores with NaN:
 ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/Replace%20scores%20with%20nan.png)
 
 
-
 ## Results of the School District Analysis
 
 Following are the results of the comparison between the original analyis and the new school district analysis after the THS ninth grade math and reading scores were removed.
@@ -46,9 +45,7 @@ The new district summary changed slightly from the original with a 30bps drop in
 
 District Summary New vs Original    
 ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/DistrictCompare.png)
-    
-
-
+   
 ### 2. Affect on School Summary
 
 In the new analysis, removing grades from 461 THS ninth graders naturally had no impact on other schools performance. The impact on THS % Overall Passing was 30 bps with % Passing Math showing virtually no drop and % Passing Reading down by 20bps. 
@@ -59,24 +56,18 @@ New School Summary
 Original School Summary    
 ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalSchoolSummary.png)
 
-Thomas High School Comparisonn
+Thomas High School Comparison:
 ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/ThomasHS.png)
-
-
-
-
 
 ### 3. Affect on Thomas High School’s Relative Performance 
 
 Thomas High School's rank of 3rd among the 15 district high schools did not change.
 
-Original Top 5 Ranking:
-        
-![GitHubLogo]()
-
 New Top 5 Ranking:
+![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalTopandBottomSchools.png)
 
-![GitHubLogo]()
+Original Top 5 Ranking:        
+![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewTopandBottomSchools.png)
 
 ### 4. How does replacing the ninth-grade scores affect the following:
 
@@ -139,9 +130,7 @@ Four changes of significance occurred in the analysis after Thomas High School n
 
 Top and Bottom
 
-https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewTopandBottomSchools.png
 
-https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalTopandBottomSchools.png
 
 
 
