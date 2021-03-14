@@ -69,7 +69,7 @@ New Top 5 Ranking:
 Original Top 5 Ranking:        
 ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewTopandBottomSchools.png)
 
-### 4. How does Replacing the Ninth-Grade Scores Affect the Following?:
+### 4. How does Replacing the Ninth-Grade Scores Affect the Following?
 
 - Math and Reading scores by Grade
 
