@@ -50,10 +50,10 @@ District Summary New vs Original
 
 In the new analysis, removing grades from 461 THS ninth graders naturally had no impact on other schools performance. The impact on THS % Overall Passing was 30 bps with % Passing Math showing virtually no drop and % Passing Reading down by 20bps. 
 
-New School Summary
+New School Summary:
 ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewSchoolSummary.png)
 
-Original School Summary    
+Original School Summary:    
 ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalSchoolSummary.png)
 
 Thomas High School Comparison:
@@ -75,10 +75,8 @@ Original Top 5 Ranking:
 
   The change in 9th grade math and reading scores for Thomas High School only resulted in a change only to the 9th grade math   and reading scores overall.
   
-  New Math Scores by Grade:
   ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewMathScoresbyGrade.png)
   
-  New Reading Scores by Grade:
   ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewReadingScoresbyGrade.png)
   
 - Scores by School Spending
