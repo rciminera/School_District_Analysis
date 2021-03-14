@@ -61,7 +61,7 @@ Thomas High School Comparison:
 
 ### 3. Affect on Thomas High School’s Relative Performance 
 
-Thomas High School's rank of 3rd among the 15 district high schools did not change.
+Thomas High School's rank of 2nd among the 15 high schools did not change.
 
 New Top 5 Ranking:
 ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/OriginalTopandBottomSchools.png)
@@ -69,20 +69,20 @@ New Top 5 Ranking:
 Original Top 5 Ranking:        
 ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewTopandBottomSchools.png)
 
-### 4. How does replacing the ninth-grade scores affect the following:
+### 4. How does Replacing the Ninth-Grade Scores Affect the Following?:
 
 - Math and reading scores by grade
 
-  The change in 9th grade math and reading scores for Thomas Hig School only resulted in a change only to the 9th grade math and reading scores overall.
+  The change in 9th grade math and reading scores for Thomas High School only resulted in a change only to the 9th grade math   and reading scores overall.
+  
+  New math and reading Scores by Grade
+  
+  ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewMathScoresbyGrade.png)
   
   Original Math and Reading Scores by Grade
   
-  ![GitHubLogo]()
-
-  New math and reading Scores by Grade
+  ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewReadingScoresbyGrade.png)
   
-  ![GitHubLogo]()
-
 - Scores by School Spending
 
   There were no changes to scores by school spending. 
@@ -136,9 +136,7 @@ Top and Bottom
 
 Grades
 
-https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewMathScoresbyGrade.png
 
-https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewReadingScoresbyGrade.png
 
 Size
 
