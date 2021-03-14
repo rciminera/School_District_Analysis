@@ -1,74 +1,77 @@
 # School District Analysis
+by Bob Ciminera
 
 ## Overview of the School District Analysis
 
 ### Purpose
 
-After completing the initial analysis of the School District, the school board notified the analytics team (Maria and her supervisor) that the students_complete.csv file showed evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have asked for help. 
+Maria is a data scientist for a city school district responsible for preparing standardized test date for analysis, reporting, and presentation to provide insights about performance trends and patterns. These insights are used to inform discussions and strategic decisions at the school and district level.
 
+For this analysis, Maria was provided school funding and other data as well as student results on standardized math and reading tests. With my assistance, her task was to aggregate this data to showcase trends in school performance.
+
+This will assist the school board and superintendent in making decisions regarding school budgets and priorities.
+
+After completing the initial analysis of the School District, the school board notified the analytics team that the students_complete.csv file showed evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. 
+
+Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have asked for help. 
 
 
 ### Methodology
 
 The analysis was conducted using Jupyter notebook with pandas and numpy python language tools.
 
-To determine the impact that the suspected fraud at Thomas High School (THS) has had on the overall performance of the school, a new dataframe was created in which the math and reading scores for THS ninth grade were replaced with null values,  NaNs, while keeping the rest of the data intact. 
+In the original analysis the data was munged to preifxes and suffixes such as "Dr." and "Jr."  
+
+In the second version of the analyis the data was again munged to determine the impact that the suspected fraud at Thomas High School (THS) has had on the overall performance of the district and school.
+
+This was accomplished by creating a new dataframe in which the math and reading scores for THS ninth grade were replaced with null values,  NaNs, while keeping the rest of the data intact. 
 
 Thomas High School 9th grade scores replaced with NaN
-![GitHubLogo]()
+![GitHubLogo](insert code snippet here)
 
-To determine the impact of the changes a new school district analysis was run with the null values and compared to the original analysis.
+To determine the impact of these changes a new school district analysis was run and compared to the original analysis to see what impact these changes has on the analysis.
 
-Original School District Analyis File: [PyCitySchools.ipynb](insert here)
+The school district analysis code can be found here:[PyCitySchools_Challenge.ipynb](file link here)
 
-New School District Analysis File: [PyCitySchools_Challenge.ipynb](insert here)
-
-A comparison was then done between the original school district analysis and the new school district analysis.
 
 
 ## Results
 
-The results of the comparison between the original an new school district analyses follow.
+Following are the results of the comparison between the original analyis and the new school district analysis after the THS ninth grade math and reading scores were removed.
 
+### 1. Impact on the Key School District Metrics
 
-### Impact on the Key School District Metrics
+The new district summary changed slightly from the original with a 30bps drop in students % Overall Passing.  This came with with a 20bps drop in % Passing Math and a 10bps drop in % Passing Reading. 
 
-1. How is the district summary affected?
-
-
-    Original District Summary
+District Summary New vs Original    
+![GitHubLogo]()
     
-    ![GitHubLogo]()
-    
-    New District Summary
-
-    ![GitHubLogo]()
-
-2. How is the school summary affected?
-
-    Original School Summary
-    
-      ![GitHubLogo]()
-
-    New School Summary
-
-     ![GitHubLogo]()
 
 
-3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### 2. Affect on School Summary
 
-     Changing Thomas High School's ninth graders' math and reading scores did not result in a change in Thomas High School's overall rnak in the school district. 
-     They were ranked 3rd inthe district for overall scoring before and after the removal of the ninght grade scores.
-     
-     Original Top 5 Ranking:
+In the new analysis, removing grades from 461 THS ninth graders naturally had no impact on other schools performance. The impact on THS % Overall Passing was 30 bps with % Passing Math showing virtually no drop and % Passing Reading down by 20bps. 
+
+Original School Summary    
+![GitHubLogo]()
+
+New School Summary
+![GitHubLogo]()
+
+
+### 3. Affect on Thomas High School’s Relative Performance 
+
+Thomas High School's rank of 3rd among the 15 district high schools did not change.
+
+Original Top 5 Ranking:
         
-      ![GitHubLogo]()
+![GitHubLogo]()
 
-     New Top 5 Ranking:
+New Top 5 Ranking:
 
-      ![GitHubLogo]()
+![GitHubLogo]()
 
-4. How does replacing the ninth-grade scores affect the following:
+### 4. How does replacing the ninth-grade scores affect the following:
 
 - Math and reading scores by grade
 
@@ -84,6 +87,8 @@ The results of the comparison between the original an new school district analys
 
 - Scores by School Spending
 
+  There were no changes to scores by school spending. 
+
    Original scores by school spending
      
    ![GitHubLogo]()
@@ -93,6 +98,8 @@ The results of the comparison between the original an new school district analys
     ![GitHubLogo]()
 
 - Scores by School Size
+
+   There were no changes to scores by school size.
 
    Original scores by school size
 
@@ -104,9 +111,9 @@ The results of the comparison between the original an new school district analys
 
 - Scores by School Type
 
-    Original scores by school type
+    There were no changes to scores by school type
 
- ![GitHubLogo]()
+  ![GitHubLogo]()
  
     New   
  
@@ -114,12 +121,14 @@ The results of the comparison between the original an new school district analys
  
 ## Summary
 
-Four major changes occurred in the analysis after Thomas High School ninth grade reading and math scores were replaced with NaNs.
+Four changes of significance occurred in the analysis after Thomas High School ninth grade reading and math scores were replaced with NaNs.  
 
-1. 
-2. 
-3. 
-4. 
+1. District % Overall Passing down by (30bps)
+2. District % Passing Math down by (20bps)
+3. Thomas High School % Overall Passing down by (32bps)
+4. Thomas High School % Passing Reading down by (29bps)
+
+
 
 
 
