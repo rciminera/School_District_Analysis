@@ -117,9 +117,10 @@ the most significant finding is that the difference in the analysis without the 
 The four major findings are as follows:
 
 1. District % Overall Passing was down after the changes but only by (30bps)
-2. Thomas High School's ranking at 2nd in the district did not change.
-3. There were no changes to Scores by School Size, Type, or Spending
-4. 
+2. Thomas High School's scores changed in the School Summary but by small amounts eg Overall % (32bps) change
+3. Thomas High School's ranking at 2nd in the district did not change.
+4. There were no changes to Scores by School Size, Type, or Spending.
 
+In conclusion, whether the Thomas High School grades were tampered with, or not, there is no significant change in the schools performance or ranking.
 
 
