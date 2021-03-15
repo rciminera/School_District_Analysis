@@ -73,7 +73,7 @@ Original Top 5 Ranking:
 
 - Math and Reading scores by Grade
 
-  The change in 9th grade math and reading scores for Thomas High School only resulted in a change only to the 9th grade math   and reading scores overall.
+  The change in 9th grade math and reading scores for Thomas High School only resulted in a change only to the 9th grade math and reading scores overall. 
   
   ![GitHubLogo](https://github.com/rciminera/School_District_Analysis/blob/main/Screen_Shots/NewMathScoresbyGrade.png)
   
@@ -111,11 +111,14 @@ Original Top 5 Ranking:
  
 ## Summary
 
-Four changes of significance occurred in the analysis after Thomas High School ninth grade reading and math scores were replaced with NaNs.  
+In reviewing the analysis the after Thomas High School ninth grade reading and math scores were replaced with NaNs,
+the most significant finding is that the difference in the analysis without the 9th grade scores is umremarkable.
 
-1. District % Overall Passing down by (30bps)
-2. District % Passing Math down by (20bps)
-3. Thomas High School % Overall Passing down by (32bps)
+The four major findings are as follows:
+
+1. District % Overall Passing was down after the changes but only by (30bps)
+2. Thomas High School's ranking at 2nd in the district did not change.
+3. Thomas High School's ninth grade math and reading scores were consistent with their gra
 4. Thomas High School % Passing Reading down by (29bps)
 
 
