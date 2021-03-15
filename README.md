@@ -111,15 +111,15 @@ Original Top 5 Ranking:
  
 ## Summary
 
-In reviewing the analysis the after Thomas High School ninth grade reading and math scores were replaced with NaNs,
-the most significant finding is that the difference in the analysis without the 9th grade scores is umremarkable.
+In reviewing the analysis after Thomas High School ninth grade reading and math scores were replaced with NaNs,
+the most significant finding is that the difference in the analysis without the 9th grade scores is unremarkable.
 
 The four major findings are as follows:
 
 1. District % Overall Passing was down after the changes but only by (30bps)
 2. Thomas High School's ranking at 2nd in the district did not change.
-3. Thomas High School's ninth grade math and reading scores were consistent with their gra
-4. Thomas High School % Passing Reading down by (29bps)
+3. There were no changes to Scores by School Size, Type, or Spending
+4. 
 
 
 
